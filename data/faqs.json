@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "How do I apply?",
+    "answer": "Visit our website and fill the online application form. Upload your documents and pay the application fee."
+  },
+  {
+    "id": 2,
+    "question": "What is the application fee?",
+    "answer": "Rs. 500 for all candidates. Pay online through card, net banking, or UPI."
+  },
+  {
+    "id": 3,
+    "question": "When does admission start?",
+    "answer": "Admission starts in June every year. Check our website for exact dates."
+  },
+  {
+    "id": 4,
+    "question": "What is the deadline to apply?",
+    "answer": "The application deadline is usually July 31st. Submit before this date."
+  },
+  {
+    "id": 5,
+    "question": "Can I apply online?",
+    "answer": "Yes, all applications are online only. No offline applications are accepted."
+  },
+  {
+    "id": 6,
+    "question": "Can I apply for multiple courses?",
+    "answer": "Yes, you can apply for up to 3 different courses. Pay application fee for each course."
+  },
+  {
+    "id": 7,
+    "question": "Can I withdraw my application?",
+    "answer": "Yes, within 7 days of submission. Application fee is non-refundable."
+  },
+  {
+    "id": 8,
+    "question": "Do I need to pass 12th?",
+    "answer": "Yes, you must pass Class 12 or equivalent from any recognized board."
+  },
+  {
+    "id": 9,
+    "question": "What marks do I need?",
+    "answer": "You need minimum 50% marks in 12th. SC/ST candidates need 45%."
+  },
+  {
+    "id": 10,
+    "question": "What is the age limit?",
+    "answer": "You must be between 17-25 years old. SC/ST get 5 years extra age relaxation."
+  },
+  {
+    "id": 11,
+    "question": "Can foreigners apply?",
+    "answer": "Indian citizens and NRI/OCI candidates can apply. Foreign nationals apply separately."
+  },
+  {
+    "id": 12,
+    "question": "Can I apply with disabilities?",
+    "answer": "Yes, PWD candidates are eligible. Extra time and support are provided."
+  },
+  {
+    "id": 13,
+    "question": "Is caste certificate needed?",
+    "answer": "Only if you are applying under SC/ST/OBC category. It's optional for general category."
+  },
+  {
+    "id": 14,
+    "question": "Do I need an entrance exam?",
+    "answer": "Yes, entrance exam is mandatory for most programs."
+  },
+  {
+    "id": 15,
+    "question": "Which exams are accepted?",
+    "answer": "JEE Main, NEET, CAT, MAT, or our own entrance exam. Check your program requirements."
+  },
+  {
+    "id": 16,
+    "question": "When is the entrance exam?",
+    "answer": "Usually in August. Date announced 4 weeks in advance on our website."
+  },
+  {
+    "id": 17,
+    "question": "How many questions are there?",
+    "answer": "100 multiple choice questions in 3 hours."
+  },
+  {
+    "id": 18,
+    "question": "What's the syllabus?",
+    "answer": "Physics, Chemistry, and Math (Class 11-12 level). Sample papers available on our website."
+  },
+  {
+    "id": 19,
+    "question": "Can I take exam from abroad?",
+    "answer": "Yes, exam centers available in major countries. Online exam option also available."
+  },
+  {
+    "id": 20,
+    "question": "What documents do I need?",
+    "answer": "10th & 12th mark sheets, pass certificate, entrance exam scorecard, Aadhar, 4 photos, caste certificate (if applicable)."
+  },
+  {
+    "id": 21,
+    "question": "Should I upload originals or copies?",
+    "answer": "Upload scanned copies (PDF/JPG). Bring originals during counseling for verification."
+  },
+  {
+    "id": 22,
+    "question": "Do I need attested documents?",
+    "answer": "Self-attested copies are okay for online application. Bring originals at counseling."
+  },
+  {
+    "id": 23,
+    "question": "When do I submit documents?",
+    "answer": "Upload all documents while filling the application form before the deadline."
+  },
+  {
+    "id": 24,
+    "question": "What file size should I upload?",
+    "answer": "Keep each file under 5 MB in PDF or JPG format. Make sure documents are clear and readable."
+  },
+  {
+    "id": 25,
+    "question": "How is merit list made?",
+    "answer": "Based on entrance exam score (70%), 12th marks (20%), and category (10%)."
+  },
+  {
+    "id": 26,
+    "question": "When will merit list come?",
+    "answer": "Within 2 weeks of entrance exam. Check your email and admission portal."
+  },
+  {
+    "id": 27,
+    "question": "How will I know if I'm selected?",
+    "answer": "Check the merit list on our portal using your registration number. Email notification sent too."
+  },
+  {
+    "id": 28,
+    "question": "Will there be multiple merit lists?",
+    "answer": "Yes, usually 2-4 rounds of merit lists. Keep checking the portal."
+  },
+  {
+    "id": 29,
+    "question": "What if I'm not in first merit list?",
+    "answer": "You may appear in later merit lists. Check updates on the portal regularly."
+  },
+  {
+    "id": 30,
+    "question": "What is counseling?",
+    "answer": "Meet our team, verify your documents, and choose your preferred course and branch."
+  },
+  {
+    "id": 31,
+    "question": "When is counseling?",
+    "answer": "Usually in September. Exact dates announced on the portal."
+  },
+  {
+    "id": 32,
+    "question": "Is counseling mandatory?",
+    "answer": "Yes, if you're selected, you must attend counseling. Skip it and your seat is cancelled."
+  },
+  {
+    "id": 33,
+    "question": "Can someone else go for counseling?",
+    "answer": "Yes, a parent or guardian can attend with power of attorney and your ID copy."
+  },
+  {
+    "id": 34,
+    "question": "Where is counseling held?",
+    "answer": "At our campus and other designated centers in your city. Location sent via email."
+  },
+  {
+    "id": 35,
+    "question": "Can I change my choice later?",
+    "answer": "Limited changes allowed in spot counseling only. Be careful while choosing."
+  },
+  {
+    "id": 36,
+    "question": "How much is the course fee?",
+    "answer": "Undergraduate: Rs. 3-5 lakh per year. Postgraduate: Rs. 2-4 lakh per year."
+  },
+  {
+    "id": 37,
+    "question": "How do I pay fees?",
+    "answer": "Pay 50% at admission, 25% after 3 months, and 25% after 6 months. Online payment available."
+  },
+  {
+    "id": 38,
+    "question": "Are scholarships available?",
+    "answer": "Yes, merit-based scholarships, need-based aid, and sports scholarships available."
+  },
+  {
+    "id": 39,
+    "question": "Who can get scholarship?",
+    "answer": "Merit scholarship: 70% marks. Need-based: Family income below Rs. 5 lakh."
+  },
+  {
+    "id": 40,
+    "question": "Can I pay in installments?",
+    "answer": "Yes, flexible payment plans available. Apply in writing for installment option."
+  },
+  {
+    "id": 41,
+    "question": "Is hostel available?",
+    "answer": "Yes, separate hostels for boys and girls with WiFi, meals, and sports facilities."
+  },
+  {
+    "id": 42,
+    "question": "What is hostel fee?",
+    "answer": "Rs. 1-1.5 lakh per year including meals and utilities."
+  },
+  {
+    "id": 43,
+    "question": "How do I get hostel?",
+    "answer": "Apply after getting admission. Allocation on first-come-first-served basis with merit priority."
+  },
+  {
+    "id": 44,
+    "question": "How long is the course?",
+    "answer": "Undergraduate: 3-4 years. Postgraduate: 1-2 years."
+  },
+  {
+    "id": 45,
+    "question": "When do classes start?",
+    "answer": "3-5 days after admission completion. Date mentioned in your admission letter."
+  },
+  {
+    "id": 46,
+    "question": "How do I contact admission office?",
+    "answer": "Email: admissions@college.edu.in | Phone: +91-11-XXXX-XXXX | Website: www.college.edu.in"
+  },
+  {
+    "id": 47,
+    "question": "Will I get admission letter?",
+    "answer": "Yes, after you complete counseling and pay fees. Email sent with all details."
+  },
+  {
+    "id": 48,
+    "question": "What if I have more questions?",
+    "answer": "Contact our admission office via email, phone, or visit our website. Chat support available 9-5 PM."
+  }
+]
