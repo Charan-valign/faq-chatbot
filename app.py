@@ -1,3 +1,4 @@
+import re
 import streamlit as st
 from src.data_loader import load_faqs
 from src.matcher import get_best_match
@@ -9,6 +10,10 @@ st.title("FAQ Chatbot")
 if "messages" not in st.session_state:
     st.session_state["messages"] = []
 
+def is_gibberish(text):
+    letters = re.findall(r"[a-zA-Z]", text)
+    return len(letters) / max(len(text), 1) < 0.4
+
 user_input = st.text_input("Ask your question:")
 
 if user_input:
@@ -18,6 +23,9 @@ if user_input:
 
     elif len(user_input) > 150:
         st.warning("Question too long. Please shorten it.")
+
+    elif is_gibberish(user_input):
+        st.warning("Please enter a meaningful question.")
 
     else:
         result = get_best_match(user_input, faqs)
