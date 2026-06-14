@@ -24,4 +24,4 @@ result = get_best_match(query, faqs)
 
 print("\nMatched Question:", result["matched_question"])
 print("Score:", result["score"])
-print("Answer:", result["answer"])
+print("Answer:", result["answer"])  
