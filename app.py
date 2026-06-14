@@ -16,7 +16,7 @@ def is_gibberish(text):
 
 user_input = st.text_input("Ask your question:")
 
-if user_input:
+if st.button("Submit"):
 
     if not user_input.strip():
         st.warning("Please enter a valid question.")
