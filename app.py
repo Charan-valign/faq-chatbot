@@ -24,3 +24,9 @@ if user_input:
 
 for role, msg in st.session_state["messages"]:
     st.write(f"**{role}:** {msg}")
+
+if user_input:
+    if not user_input.strip():
+        st.warning("Please enter a valid question.")
+    elif len(user_input) > 150:
+        st.warning("Question too long. Please shorten it.")
